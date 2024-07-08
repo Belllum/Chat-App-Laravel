@@ -53,7 +53,7 @@ A real-time chat application built using Laravel (with Reverb) for the backend a
 
 ## Running the App
 
-After setting up the app, run the following commands in your project directory:
+After setting up the app, open four(4) terminals and run the following commands in your project directory:
 
 ```bash
 php artisan serve
