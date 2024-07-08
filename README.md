@@ -43,7 +43,6 @@ A real-time chat application built using Laravel (with Reverb) for the backend a
     DB_USERNAME=your_username
     DB_PASSWORD=your_password
 
-    BROADCAST_DRIVER=reverb
     ```
 
 4. Run migrations:
