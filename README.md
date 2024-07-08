@@ -61,12 +61,9 @@ php artisan queue:listen
 php artisan reverb:start
 npm run dev
 
+```
 
 ## Technologies Used
 
 -   **Frontend**: React
 -   **Backend**: Laravel (with Reverb), MySQL
-
-
-
-```
